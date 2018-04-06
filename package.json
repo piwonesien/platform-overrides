@@ -17,15 +17,15 @@
   "author": "Adam Lynch <contact@adamlynch.com>",
   "license": "MIT",
   "devDependencies": {
-    "coffee-script": "~1.8.0",
-    "gulp": "~3.8.9",
-    "gulp-coffee": "~2.2.0",
-    "gulp-load-plugins": "~0.7.0",
-    "gulp-mocha": "~1.1.1",
-    "chai": "~1.9.2",
+    "coffeescript": "~2.2.4",
+    "gulp": "~3.9.1",
+    "gulp-coffee": "~3.0.2",
+    "gulp-load-plugins": "~1.5.0",
+    "gulp-mocha": "~3.0.1",
+    "chai": "~4.1.2",
     "gulp-rename": "~1.2.0"
   },
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "~4.17.5"
   }
 }
