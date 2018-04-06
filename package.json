@@ -17,7 +17,7 @@
   "author": "Adam Lynch <contact@adamlynch.com>",
   "license": "MIT",
   "devDependencies": {
-    "coffeescript": "~2.2.4",
+    "coffeescript": "~1.12.7",
     "gulp": "~3.9.1",
     "gulp-coffee": "~3.0.2",
     "gulp-load-plugins": "~1.5.0",

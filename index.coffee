@@ -1,4 +1,3 @@
-require 'coffeescript/register'
 os = require 'os'
 _ = require 'lodash'
 
