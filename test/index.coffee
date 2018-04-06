@@ -1,3 +1,4 @@
+require 'coffeescript/register'
 platformOverrides = require '../index.coffee'
 chai = require 'chai'
 expect = chai.expect
